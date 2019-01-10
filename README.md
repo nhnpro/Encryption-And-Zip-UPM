@@ -9,7 +9,7 @@ Make By 1B (nhnpro.nguyenhoang@gmail.com) for personal Projects
 {  
   "dependencies": {
 		...
-		"com.namnh.jar-resolver-unity": "https://github.com/nhnpro/Encryption-And-Zip-UPM.git#0.0.1",
+		"com.namnh.encryption-and-zip-unity": "https://github.com/nhnpro/Encryption-And-Zip-UPM.git#0.0.1",
 		...
 	}
 }
