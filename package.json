@@ -1,0 +1,13 @@
+{
+	"name": "com.namnh.encryption-and-zip-unity",
+	"version": "0.0.1",
+	"unity": "2018.1",
+	"description": "Encryption And Zip Util For Unity",
+	"keywords": ["base64", "sha1", "md5", "compress", "zip", "encryption"],
+	"category": "Util",
+	"author": {
+		"name": "NamNH-1B"
+	},
+	"dependencies": {
+	}
+}
